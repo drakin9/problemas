@@ -2,6 +2,9 @@
 <html>
 <head>
 	<title>Show do milhão</title>
+	<?
+	session_start();
+	?>
 </head>
 <body>
 	<h1>Bem vindo ao jogo de perguntas</h1>
